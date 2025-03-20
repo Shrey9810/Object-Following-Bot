@@ -50,6 +50,8 @@ PS2: Create an AI-driven system to predict natural disasters using satellite ima
 The Object Following Bot combines the power of Arduino, sensors, and motors to autonomously follow objects while avoiding collisions, demonstrating the potential of simple yet effective robotic systems.
 
 ## Contributors
-- Shreyash Chaudhary
-- Jinay Patel
-- Dharmil Halpati
+- [Shreyash Chaudhary](https://github.com/Shrey9810)
+- [Jinay Patel](https://github.com/jinay-2017)
+- [Dharmil Halpati](https://github.com/Dharmil2684)
+- [Avrut Patel](https://github.com/AvrutPatel)
+
